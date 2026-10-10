@@ -1,0 +1,35 @@
+{
+    "name": "Shopping Mart",
+    "short_name": "Shopping Mart",
+    "start_url": ".",
+    "display": "standalone",
+    "background_color": "#FFF9FC",
+    "theme_color": "#C44778",
+    "description": "Shopping Mart fashion shopping demo.",
+    "orientation": "portrait-primary",
+    "prefer_related_applications": false,
+    "icons": [
+        {
+            "src": "icons/Icon-192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "icons/Icon-512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        },
+        {
+            "src": "icons/Icon-maskable-192.png",
+            "sizes": "192x192",
+            "type": "image/png",
+            "purpose": "maskable"
+        },
+        {
+            "src": "icons/Icon-maskable-512.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "maskable"
+        }
+    ]
+}
